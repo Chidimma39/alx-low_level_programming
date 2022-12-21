@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  **put2-print one character out of two
