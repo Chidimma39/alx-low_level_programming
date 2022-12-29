@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- **main: print the various sizes of data types
- **Description: this is done using the printf function
- **Return: 0
+ * main-print the various size on the computer
+ * Description:this involves using printf function
+ * Return: 0
  **/
 int main(void)
 {
